@@ -30,6 +30,3 @@ make
 - ncurses
 - SFML 2.5+
 
-## Authors
-
-Joao, Hugo and Patrick
